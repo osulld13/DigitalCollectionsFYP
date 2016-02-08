@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Digital Collections</string>
+    <string name="action_search">Search</string>
+    <string name="action_bookmarks">Bookmarks</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
